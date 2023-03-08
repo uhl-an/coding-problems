@@ -1,0 +1,18 @@
+/*
+    Problem:
+    :Write an SQL query to find the employees who earn more than their managers.
+
+    Constraints:
+    :None
+
+    Pseudo:
+    :Select *
+     From Employees E
+     Join Employees M On E.managerId = M.id
+     WHERE E.salary > M.salary;
+*/
+#5min. 47sesc.
+SELECT E.name Employee
+FROM Employee E 
+INNER JOIN Employee M ON E.managerId = M.id
+WHERE E.salary > M.salary;

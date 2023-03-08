@@ -1,0 +1,30 @@
+/*
+    Schema:
+    :Create table If Not Exists Employee (id int, salary int)
+     Truncate table Employee
+     insert into Employee (id, salary) values ('1', '100')
+     insert into Employee (id, salary) values ('2', '200')
+     insert into Employee (id, salary) values ('3', '300')
+
+    Problem:
+    :Write an SQL query to report the second highest salary
+      from the Employee table. If there is no second highest
+      salary, the query should report null.
+
+    Constraints:
+    :If there is no second highest, report null
+
+    Pseudo:
+    :Select employee salary as SecondHighestSalary
+     From (query of top two employees) as top two
+     where employees salary < (query of highest earning employee)
+*/
+#17min. 51sec.4 - Unfinished
+# SELECT MIN(TopTwo.salary) SecondHighestSalary
+# FROM (SELECT salary FROM Employee ORDER BY salary DESC LIMIT 2) TopTwo
+# HAVING COUNT(TopTwo.salary) = 2;
+
+#21min. 08sec.
+SELECT MAX(E.salary) SecondHighestSalary
+FROM Employee E
+WHERE E.salary <> (SELECT MAX(salary) FROM Employee);
