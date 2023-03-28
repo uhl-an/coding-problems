@@ -44,9 +44,20 @@ private:
     std::vector<int> dataSet1 = {2, 3, 4, 7, 11};
     std::vector<int> dataSet2 = {1, 2, 3, 4};
 
+    void printDataSet(char title[], std::vector<int> &data)
+    {
+        std::cout << title << ": ";
+
+        std::copy(data.begin(), data.end(), std::ostream_iterator<int>(std::cout, " "));
+
+        std::cout << std::endl;
+    }
+
 public:
     std::vector<int> getMissingPositiveIntegers(std::vector<int> &arr)
     {
+        std::vector<int> 
+        
     }
 
     std::vector<int> getData()
@@ -55,8 +66,13 @@ public:
 
         std::cout << "Select a dataset:" << std::endl;
 
-        std::cout << "DataSet 1: ";
+        printDataSet("DataSet 1", dataSet1);
+        printDataSet("DataSet 2", dataSet2);
 
-        std::copy(dataSet1.begin(), dataSet1.end(), std::ostream_iterator(std::cout, " "));
+        std::cout << std::endl << ": ";
+
+        std::cin >> selection;
+
+        return selection == 2 ? dataSet2 : dataSet1;
     }
 };
