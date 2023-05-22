@@ -30,8 +30,6 @@ public class Solution
         {
             return mergedArray[mergedArray.Length / 2];
         }
-
-        return -1;
     }
 }
 

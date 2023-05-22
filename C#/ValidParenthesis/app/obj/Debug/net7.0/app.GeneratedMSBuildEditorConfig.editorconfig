@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Median_of_Two_Sorted_Arrays
-build_property.ProjectDir = C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Median of Two Sorted Arrays\
+build_property.RootNamespace = app
+build_property.ProjectDir = C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\ValidParenthesis\app\
