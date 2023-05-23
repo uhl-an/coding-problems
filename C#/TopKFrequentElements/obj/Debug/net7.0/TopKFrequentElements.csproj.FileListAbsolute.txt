@@ -1,0 +1,15 @@
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.csproj.AssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\bin\Debug\net7.0\TopKFrequentElements.exe
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\bin\Debug\net7.0\TopKFrequentElements.deps.json
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\bin\Debug\net7.0\TopKFrequentElements.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\bin\Debug\net7.0\TopKFrequentElements.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\bin\Debug\net7.0\TopKFrequentElements.pdb
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\refint\TopKFrequentElements.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.pdb
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\TopKFrequentElements.genruntimeconfig.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\TopKFrequentElements\obj\Debug\net7.0\ref\TopKFrequentElements.dll
