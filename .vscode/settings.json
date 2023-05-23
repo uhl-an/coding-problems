@@ -38,7 +38,14 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "iterator": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "atomic": "cpp",
+        "bit": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "ctime": "cpp"
     },
     "java.debug.settings.onBuildFailureProceed": true
 }
