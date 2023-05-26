@@ -1,0 +1,15 @@
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\bin\Debug\net7.0\Sqrt.exe
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\bin\Debug\net7.0\Sqrt.deps.json
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\bin\Debug\net7.0\Sqrt.runtimeconfig.json
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\bin\Debug\net7.0\Sqrt.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\bin\Debug\net7.0\Sqrt.pdb
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.csproj.AssemblyReference.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.AssemblyInfo.cs
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\refint\Sqrt.dll
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.pdb
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\Sqrt.genruntimeconfig.cache
+C:\Users\Uhlan Larrie\Documents\Coding\Learning\Coding Problems\coding-problems\C#\Sqrt\obj\Debug\net7.0\ref\Sqrt.dll
